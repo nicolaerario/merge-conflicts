@@ -10,6 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
+
 resume_name:                    "Surftocat"
 resume_title:                   "Professional Surfer"
 resume_contact_email:           "surftocat@github.com"
